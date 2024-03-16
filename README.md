@@ -1,5 +1,6 @@
 # CAIR
 A Comprehensive Review on Content-Aware Image Retargeting: From Classical to State-of-the-art Methods
+
 [Content-aware image retargeting methods ](#headers1) 
 * [Discrete methods](#headers11)  
    * [Content-aware cropping methods](#headers)  
@@ -15,10 +16,12 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
        * [Axis-aligned-based methods](#headers)
        * [Quad-edge-based method ](#headers)
 * [Multi-operator methods](#headers13)
-* [Deep learning-based methods](#headers14) 
+* [Deep learning-based methods](#headers14)
+  
 [Image retargeting quality assessment methods](#headers2)
 * [Subjective RIQA methods](#headers)
 * [Objective RIQA methods](#headers)
+  
 [Datasets](#headers3)
 * [RetargetMe](#headers)
 * [CUHK](#headers)
