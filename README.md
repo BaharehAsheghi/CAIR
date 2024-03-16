@@ -29,8 +29,7 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 * [MSRA-1000](#headers)
 * [SED-100](#headers)
 
-<a name="headers1"></a>
-
+<div id='headers1'/>
 ## Content-aware image retargeting methods 
 ### Discrete methods
 #### Content-aware cropping methods
@@ -48,14 +47,12 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ### Multi-operator methods
 ### Deep learning-based methods
 
-<a name="headers2"></a>
-
+<div id='headers2'/>
 ## Image retargeting quality assessment methods 
 ### Subjective RIQA methods
 ### Objective RIQA methods
 
-<a name="headers3"></a>
-
+<div id='headers3'/>
 ## Datasets 
 ### RetargetMe
 ### CUHK
