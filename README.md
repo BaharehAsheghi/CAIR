@@ -1,7 +1,7 @@
 # CAIR
 A Comprehensive Review on Content-Aware Image Retargeting: From Classical to State-of-the-art Methods
 
-[Content-aware image retargeting methods ](#headers) 
+[Content-aware image retargeting methods ](#headers1) 
 * [Discrete methods](#headers)  
    * [Content-aware cropping methods](#headers)  
    * [Seam-carving-based methods](#headers)  
@@ -18,20 +18,18 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 * [Multi-operator methods](#headers)
 * [Deep learning-based methods](#headers) 
 
-[Image retargeting quality assessment methods](#headers)
+[Image retargeting quality assessment methods](#headers2)
 * [Subjective RIQA methods](#headers)
 * [Objective RIQA methods](#headers)
 
-[Datasets](#headers)
+[Datasets](#headers3)
 * [RetargetMe](#headers)
 * [CUHK](#headers)
 * [NRID](#headers)
 * [MSRA-1000](#headers)
 * [SED-100](#headers)
 
-<a name="headers"/>
-
-## Content-aware image retargeting methods 
+## Content-aware image retargeting methods <a name="headers1"></a>
 ### Discrete methods
 #### Content-aware cropping methods
 #### Seam-carving-based methods
@@ -48,12 +46,11 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ### Multi-operator methods
 ### Deep learning-based methods
 
-<a name="headers"/>
-
-## Image retargeting quality assessment methods
+## Image retargeting quality assessment methods <a name="headers2"></a>
 ### Subjective RIQA methods
 ### Objective RIQA methods
-## Datasets
+
+## Datasets <a name="headers3"></a>
 ### RetargetMe
 ### CUHK
 ### NRID
