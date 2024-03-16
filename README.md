@@ -31,10 +31,8 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 <a name="headers1">
   
 ## Content-aware image retargeting methods 
-
-<a name="headers11">
   
-### Discrete methods
+### Discrete methods <a name="headers11">
 #### Content-aware cropping methods
 #### Seam-carving-based methods
 #### Shift-map method
