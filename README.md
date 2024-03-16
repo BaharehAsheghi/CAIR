@@ -48,10 +48,11 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ### Multi-operator methods
 ### Deep learning-based methods
 
+<a name="headers"/>
+
 ## Image retargeting quality assessment methods
 ### Subjective RIQA methods
 ### Objective RIQA methods
-
 ## Datasets
 ### RetargetMe
 ### CUHK
