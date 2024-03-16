@@ -31,12 +31,14 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 <a name="headers1">
   
 ## Content-aware image retargeting methods 
+
 <a name="headers11">
   
 ### Discrete methods
 #### Content-aware cropping methods
 #### Seam-carving-based methods
 #### Shift-map method
+
 <a name="headers12">
   
 ### Continuous methods
@@ -48,20 +50,22 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ###### Vertex-based methods
 ###### Axis-aligned-based methods
 ###### Quad-edge-based method 
+
 <a name="headers13">
   
 ### Multi-operator methods
+
 <a name="headers14">
   
 ### Deep learning-based methods
+
 <a name="headers2">
   
 ## Image retargeting quality assessment methods 
 ### Subjective RIQA methods
 ### Objective RIQA methods
-<a name="headers3">
   
-## Datasets 
+## Datasets <a name="headers3">
 ### RetargetMe
 ### CUHK
 ### NRID
