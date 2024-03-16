@@ -1,6 +1,6 @@
 # CAIR
 A Comprehensive Review on Content-Aware Image Retargeting: From Classical to State-of-the-art Methods
-
+ 
 [Content-aware image retargeting methods ](#headers1) 
 * [Discrete methods](#headers11)  
    * [Content-aware cropping methods](#headers111)  
