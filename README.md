@@ -2,11 +2,11 @@
 A Comprehensive Review on Content-Aware Image Retargeting: From Classical to State-of-the-art Methods
 
 [Content-aware image retargeting methods ](#headers1) 
-* [Discrete methods](#headers)  
+* [Discrete methods](#headers11)  
    * [Content-aware cropping methods](#headers)  
    * [Seam-carving-based methods](#headers)  
    * [Shift-map method](#headers)  
-* [Continuous methods](#headers)  
+* [Continuous methods](#headers12)  
    * [Content-aware scaling methods](#headers)  
    * [Warping-based methods](#headers)
      * [Region-based methods](#headers)
@@ -15,8 +15,8 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
        * [Vertex-based methods](#headers)
        * [Axis-aligned-based methods](#headers)
        * [Quad-edge-based method ](#headers)
-* [Multi-operator methods](#headers)
-* [Deep learning-based methods](#headers) 
+* [Multi-operator methods](#headers13)
+* [Deep learning-based methods](#headers14) 
 
 [Image retargeting quality assessment methods](#headers2)
 * [Subjective RIQA methods](#headers)
@@ -32,10 +32,12 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 <a name="headers1">
   
 ## Content-aware image retargeting methods 
+<a name="headers11">
 ### Discrete methods
 #### Content-aware cropping methods
 #### Seam-carving-based methods
 #### Shift-map method
+<a name="headers12">
 ### Continuous methods
 #### Content-aware scaling methods
 #### Warping-based methods
@@ -45,7 +47,9 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ###### Vertex-based methods
 ###### Axis-aligned-based methods
 ###### Quad-edge-based method 
+<a name="headers13">
 ### Multi-operator methods
+<a name="headers14">
 ### Deep learning-based methods
 
 <a name="headers2">
