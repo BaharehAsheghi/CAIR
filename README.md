@@ -55,12 +55,9 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 <a name="headers13">
   
 ### Multi-operator methods
-
-
 <a name="headers14">
   
 ### Deep learning-based methods
-
 <a name="headers2">
   
 ## Image retargeting quality assessment methods 
