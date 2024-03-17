@@ -113,7 +113,7 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 #### * Perception-guided multi-channel visual feature fusion for image retargeting (2019) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0923596519304837)]
 #### * Cycle-IR: deep cyclic image retargeting (2020) [[PDF](https://ieeexplore.ieee.org/abstract/document/8943352)] [[GitHub](https://github.com/mintanwei/Cycle-IR)]
 #### * Context-aware saliency detection for image retargeting using convolutional neural networks (2021) [[PDF](https://link.springer.com/article/10.1007/s11042-020-10185-0)]
-#### * Weakly supervised reinforced multi-operator image retargeting (2021) [[PDF](https://ieeexplore.ieee.org/abstract/document/9023363/)]
+#### * Weakly supervised reinforced multi-operator image retargeting (2021) [[PDF](https://ieeexplore.ieee.org/abstract/document/9023363/)]  [[GitHub](https://github.com/ZYzhouya/Weakly-Supervised-Reinforced-Multi-operator-Image-Retargeting)]
 ## Image retargeting quality assessment methods <a name="headers2">
 ### Subjective RIQA methods <a name="headers21">
 #### * A comparative study of image retargeting (2010) [[PDF](https://dl.acm.org/doi/abs/10.1145/1866158.1866186)]
