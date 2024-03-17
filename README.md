@@ -32,8 +32,9 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ## Content-aware image retargeting methods <a name="headers1">
 ### Discrete methods <a name="headers11">
 #### Content-aware cropping methods <a name="headers111">
-##### * Combining Multiple Image Features to Guide Automatic Portrait Cropping for Rendering Different Aspect Ratios (2010) [[PDF](https://ieeexplore.ieee.org/document/5714531)]
 ##### * A visual attention model for adapting images on small displays (2003) [[PDF](https://link.springer.com/article/10.1007/s00530-003-0105-4)]
+##### * Self-Adaptive Image Cropping for Small Displays (2007) [[PDF](https://ieeexplore.ieee.org/abstract/document/4429261)]
+##### * Combining Multiple Image Features to Guide Automatic Portrait Cropping for Rendering Different Aspect Ratios (2010) [[PDF](https://ieeexplore.ieee.org/document/5714531)]
 #### Seam-carving-based methods <a name="headers112">
 #### Shift-map method <a name="headers113">
 ### Continuous methods <a name="headers12">
