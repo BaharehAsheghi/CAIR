@@ -40,8 +40,24 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ##### * Combining multiple image features to guide automatic portrait cropping for rendering different aspect ratios (2010) [[PDF](https://ieeexplore.ieee.org/document/5714531)]
 ##### * Saliency density maximization for efficient visual objects discovery (2011) [[PDF](https://ieeexplore.ieee.org/abstract/document/5756228)]
 #### Seam-carving-based methods <a name="headers112">
+##### * Seam carving for content-aware image resizing (2007) [[PDF](https://dl.acm.org/doi/abs/10.1145/3596711.3596776)]
+##### * Improved seam carving for video retargeting (2008) [[PDF](https://dl.acm.org/doi/abs/10.1145/1360612.1360615)]
+##### * Saliency detection for content-aware image resizing (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/5413815)]
+##### * Depth-aware image seam carving (2013) [[PDF](https://ieeexplore.ieee.org/abstract/document/6565369)]
+##### * Saliency-based selection of gradient vector flow paths for content aware image resizing (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6775267)]
+##### * High quality image resizing (2014) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231213009545)]
+##### * Learning to resize image (2014) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231213009521)]
 ##### * NIF-based seam carving for image resizing (2015) [[PDF](https://link.springer.com/article/10.1007/s00530-014-0425-6)]
+##### * Image retargeting with a 3D saliency model (2015) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168414005039)]
+##### * Improved seam carving combining with 3D saliency for image retargeting (2015) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231214013769)]
+##### * Optimizing seam carving on multi-GPU systems for real-time content-aware image resizing (2015) [[PDF](https://link.springer.com/article/10.1007/s11227-015-1446-4)]
+##### * Sparse seam-carving for structure preserving image retargeting (2016) [[PDF](https://link.springer.com/article/10.1007/s11265-015-1084-3)]
+##### * Content-aware image resizing: An improved and shadow-preserving seam carving method (2019) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168418303244)]
+##### * Reflection symmetry aware image retargeting (2019) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301205)]
+##### * Distortion-aware image retargeting based on continuous seam carving model (2020) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168419302889)]
+##### * Structure preservation of image using an efficient content-aware image retargeting technique (2021) [[PDF](https://link.springer.com/article/10.1007/s11760-020-01736-x)]
 #### Shift-map method <a name="headers113">
+##### * Shift-map image editing (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/5459159)]
 ### Continuous methods <a name="headers12">
 #### Content-aware scaling methods <a name="headers121">
 #### Warping-based methods <a name="headers122">
