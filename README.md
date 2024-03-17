@@ -21,13 +21,6 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 [Image retargeting quality assessment methods](#headers2)
 * [Subjective RIQA methods](#headers21)
 * [Objective RIQA methods](#headers22)
-
-[Datasets](#headers3)
-* [RetargetMe](#headers31)
-* [CUHK](#headers32)
-* [NRID](#headers33)
-* [MSRA-1000](#headers34)
-* [SED-100](#headers35)
   
 ## Content-aware image retargeting methods <a name="headers1">
 ### Discrete methods <a name="headers11">
@@ -124,9 +117,3 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ## Image retargeting quality assessment methods <a name="headers2">
 ### Subjective RIQA methods <a name="headers21">
 ### Objective RIQA methods <a name="headers22">
-## Datasets <a name="headers3">
-### RetargetMe <a name="headers31">
-### CUHK <a name="headers32">
-### NRID <a name="headers33">
-### MSRA-1000 <a name="headers34">
-### SED-100 <a name="headers35">
