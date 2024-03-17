@@ -129,5 +129,5 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 #### * Pyramidal modeling of geometric distortions for retargeted image quality evaluation (2018) [[PDF](https://link.springer.com/article/10.1007/s11042-017-4994-1)]
 #### * Quality assessment of retargeted images using hand-crafted and deep-learned features (2018) [[PDF](https://ieeexplore.ieee.org/abstract/document/8299620)]
 #### * A content-aware image retargeting quality assessment method using foreground and global measurement (2019) [[PDF](https://ieeexplore.ieee.org/abstract/document/8755987)]
-#### * Image retargeting quality assessment based on registration confidence measure and noticeability-based pooling (2019) [[PDF](https://ieeexplore.ieee.org/abstract/document/9103006)]
+#### * Image retargeting quality assessment based on registration confidence measure and noticeability-based pooling (2020) [[PDF](https://ieeexplore.ieee.org/abstract/document/9103006)]
 #### * Quality evaluation for image retargeting with instance semantics (2020) [[PDF](https://ieeexplore.ieee.org/abstract/document/9167470)]
