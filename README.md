@@ -111,7 +111,7 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 #### * CarvingNet: content-guided seam carving using deep convolution neural network (2019) [[PDF](https://ieeexplore.ieee.org/abstract/document/8565840)]
 #### * DeepIR: a deep semantics driven framework for image retargeting (2019) [[PDF](https://ieeexplore.ieee.org/abstract/document/8795056)]
 #### * Perception-guided multi-channel visual feature fusion for image retargeting (2019) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0923596519304837)]
-#### * Cycle-IR: deep cyclic image retargeting (2020) [[PDF](https://ieeexplore.ieee.org/abstract/document/8943352)]
+#### * Cycle-IR: deep cyclic image retargeting (2020) [[PDF](https://ieeexplore.ieee.org/abstract/document/8943352)] [[GitHub](https://github.com/mintanwei/Cycle-IR)]
 #### * Context-aware saliency detection for image retargeting using convolutional neural networks (2021) [[PDF](https://link.springer.com/article/10.1007/s11042-020-10185-0)]
 #### * Weakly supervised reinforced multi-operator image retargeting (2021) [[PDF](https://ieeexplore.ieee.org/abstract/document/9023363/)]
 ## Image retargeting quality assessment methods <a name="headers2">
