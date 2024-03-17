@@ -1,5 +1,5 @@
 # CAIR
-A Comprehensive Review on Content-Aware Image Retargeting: From Classical to State-of-the-art Methods
+A Comprehensive Review on Content-Aware Image Retargeting: From Classical to State-of-the-art Methods (2022) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168422000433)]
  
 [Content-aware image retargeting methods ](#headers1) 
 * [Discrete methods](#headers11)  
