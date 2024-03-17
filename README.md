@@ -60,6 +60,10 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ##### * Shift-map image editing (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/5459159)]
 ### Continuous methods <a name="headers12">
 #### Content-aware scaling methods <a name="headers121">
+##### * A novel video image scaling algorithm based on morphological edge interpolation (2008) [[PDF](https://ieeexplore.ieee.org/abstract/document/4590378)]
+##### * An improved edge-adaptive image scaling algorithm (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/5351551)]
+##### * Patchwise scaling method for content-aware image resizing (2012) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0165168411004038)]
+##### * Stretchability-aware block scaling for image retargeting, Journal of visual communication and image representation (2013) [[PDF](https://www.sciencedirect.com/science/article/pii/S1047320313000436)]
 #### Warping-based methods <a name="headers122">
 ##### Region-based methods <a name="headers1221">
 ##### Pixel-based methods <a name="headers1222">
