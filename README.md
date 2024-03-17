@@ -94,6 +94,24 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ###### Quad-edge-based method <a name="headers12233">
 ###### * A quad edge-based grid encoding model for content-aware image retargeting (2019) [[PDF](https://ieeexplore.ieee.org/abstract/document/8440087)]
 ### Multi-operator methods <a name="headers13">
+#### * Multi-operator media retargeting (2009) [[PDF](https://dl.acm.org/doi/abs/10.1145/1531326.1531329)]
+#### * Optimized image resizing using seam carving and scaling (2009) [[PDF](https://dl.acm.org/doi/abs/10.1145/1618452.1618471)]
+#### * A distortion-sensitive seam carving algorithm for content-aware image resizing (2011) [[PDF](https://link.springer.com/article/10.1007/s11265-011-0613-y)]
+#### * Fast multi-operator image resizing and evaluation (2012) [[PDF](https://link.springer.com/article/10.1007/s11390-012-1211-6)]
+#### * Saliency detection in the compressed domain for adaptive image retargeting (2012) [[PDF](https://ieeexplore.ieee.org/abstract/document/6199980)]
+#### * Semantic aware sport image resizing jointly using seam carving and warping (2014) [[PDF](https://link.springer.com/article/10.1007/s11042-012-1002-7)]
+#### * A hybrid image retargeting approach via combining seam carving and grid warping (2014) [[PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2f12e1c14a8716892a79c293600b245713eae74e)]
+#### * Summarization-based image resizing by intelligent object carving (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6565987)]
+#### * Optimized image resizing using flow-guided seam carving and an interactive genetic algorithm (2014) [[PDF](https://link.springer.com/article/10.1007/s11042-012-1242-6)]
+#### * Image retargeting by texture-aware synthesis (2015) [[PDF](https://ieeexplore.ieee.org/abstract/document/7117450)]
+#### * Adaptive content condensation based on grid optimization for thumbnail image generation (2015) [[PDF](https://ieeexplore.ieee.org/abstract/document/7303903)]
+#### * Image retargeting using nonparametric semantic segmentation (2015) [[PDF](https://link.springer.com/article/10.1007/s11042-014-2249-y)]
+#### * Optimal bi-directional seam carving for compressibility-aware image retargeting (2016) [[PDF](https://www.sciencedirect.com/science/article/pii/S1047320316301833)]
+#### * Hybrid image retargeting using optimized seam carving and scaling (2017) [[PDF](https://link.springer.com/article/10.1007/s11042-016-3318-1)]
+#### * Seam warping: a new approach for image retargeting for small displays (2017) [[PDF](https://link.springer.com/article/10.1007/s00500-015-1795-1)]
+#### * Optimized multioperator image retargeting based on perceptual similarity measure (2017) [[PDF](https://ieeexplore.ieee.org/abstract/document/7466112)]
+#### * Image retargeting using depth assisted saliency map (2017) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0923596516301631)]
+#### * A fast hybrid retargeting scheme with seam context and content aware strip partition (2018) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231218300912)]
 ### Deep learning-based methods <a name="headers14">
 ## Image retargeting quality assessment methods <a name="headers2">
 ### Subjective RIQA methods <a name="headers21">
