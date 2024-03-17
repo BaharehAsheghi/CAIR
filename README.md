@@ -92,8 +92,7 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ##### * Image retargeting for preserving robust local feature: Application to mobile visual search (2015) [[PDF](https://ieeexplore.ieee.org/abstract/document/7328742)]
 ##### * A structure-aware axis-aligned grid deformation approach for robust image retargeting (2018) [[PDF](https://link.springer.com/article/10.1007/s11042-017-4674-1)]
 ###### Quad-edge-based method <a name="headers12233">
-##### * A structure-aware axis-aligned grid deformation approach for robust image retargeting (2018) [[PDF](https://link.springer.com/article/10.1007/s11042-017-4674-1)]
-
+##### * A quad edge-based grid encoding model for content-aware image retargeting (2019) [[PDF](https://ieeexplore.ieee.org/abstract/document/8440087)]
 ### Multi-operator methods <a name="headers13">
 ### Deep learning-based methods <a name="headers14">
 ## Image retargeting quality assessment methods <a name="headers2">
