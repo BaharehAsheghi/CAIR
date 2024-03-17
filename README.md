@@ -88,7 +88,12 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ##### * Dynamic distortion maps for image retargeting (2013) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1047320312001654)]
 ##### * Image retargeting via adaptive scaling with geometry preservation (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6720205)]
 ###### Axis-aligned-based methods <a name="headers12232">
+##### * Robust image retargeting via axis-aligned deformation (2012) [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2012.03001.x)]
+##### * Image retargeting for preserving robust local feature: Application to mobile visual search (2015) [[PDF](https://ieeexplore.ieee.org/abstract/document/7328742)]
+##### * A structure-aware axis-aligned grid deformation approach for robust image retargeting (2018) [[PDF](https://link.springer.com/article/10.1007/s11042-017-4674-1)]
 ###### Quad-edge-based method <a name="headers12233">
+##### * A structure-aware axis-aligned grid deformation approach for robust image retargeting (2018) [[PDF](https://link.springer.com/article/10.1007/s11042-017-4674-1)]
+
 ### Multi-operator methods <a name="headers13">
 ### Deep learning-based methods <a name="headers14">
 ## Image retargeting quality assessment methods <a name="headers2">
