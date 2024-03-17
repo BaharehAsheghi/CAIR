@@ -73,6 +73,9 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ##### * Adaptive image and video retargeting technique based on Fourier analysis (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/5206666)]
 ##### * Image retargeting with multifocus fisheye transformation (2013) [[PDF](https://link.springer.com/article/10.1007/s00371-012-0744-6)]
 ##### Pixel-based methods <a name="headers1222">
+##### * Image retargeting based on global energy optimization (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/5202520)]
+##### * Image and video retargetting by darting (2009) [[PDF](https://link.springer.com/chapter/10.1007/978-3-642-02611-9_4)]
+##### * Image and video retargeting using adaptive scaling function (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/7077652)]
 ##### Mesh-based methods <a name="headers1223">
 ###### Vertex-based methods <a name="headers12231">
 ###### Axis-aligned-based methods <a name="headers12232">
