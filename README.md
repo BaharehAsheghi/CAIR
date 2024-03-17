@@ -79,12 +79,12 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ##### Mesh-based methods <a name="headers1223">
 ###### Vertex-based methods <a name="headers12231">
 ##### * Feature-aware texturing (2006) [[PDF](https://diglib.eg.org/bitstream/handle/10.2312/EGWR.EGSR06.297-303/297-303.pdf?sequence=1&isAllowed=y)]
-##### * Optimized Scale-and-Stretch for Image Resizing (2008) [[PDF](https://dl.acm.org/doi/abs/10.1145/1457515.1409071)]
-##### * A Shape-Preserving Approach to Image Resizing (2009) [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01568.x)]
+##### * Optimized scale-and-stretch for image resizing (2008) [[PDF](https://dl.acm.org/doi/abs/10.1145/1457515.1409071)]
+##### * A shape-preserving approach to image resizing (2009) [[PDF](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01568.x)]
 ##### * Image resizing via non-homogeneous warping (2012) [[PDF](https://link.springer.com/article/10.1007/s11042-010-0613-0)]
-##### * Patch-Based Image Warping for Content-Aware Retargeting (2013) [[PDF](https://ieeexplore.ieee.org/abstract/document/6357312)]
+##### * Patch-based image warping for content-aware retargeting (2013) [[PDF](https://ieeexplore.ieee.org/abstract/document/6357312)]
 ##### * Dynamic distortion maps for image retargeting (2013) [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1047320312001654)]
-##### * Image Retargeting Via Adaptive Scaling With Geometry Preservation (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6720205)]
+##### * Image retargeting via adaptive scaling with geometry preservation (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6720205)]
 ##### * Nonhomogeneous scaling optimization for realtime image resizing (2014) [[PDF](https://link.springer.com/article/10.1007/s00371-010-0472-8)]
 ###### Axis-aligned-based methods <a name="headers12232">
 ###### Quad-edge-based method <a name="headers12233">
