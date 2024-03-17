@@ -116,4 +116,7 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 #### * Weakly supervised reinforced multi-operator image retargeting (2021) [[PDF](https://ieeexplore.ieee.org/abstract/document/9023363/)]
 ## Image retargeting quality assessment methods <a name="headers2">
 ### Subjective RIQA methods <a name="headers21">
+#### * A comparative study of image retargeting (2010) [[PDF](https://dl.acm.org/doi/abs/10.1145/1866158.1866186)]
+#### * Image retargeting quality assessment: a study of subjective scores and objective metrics (2012) [[PDF](https://ieeexplore.ieee.org/abstract/document/6262447)]
+#### * Objective quality assessment for image retargeting based on perceptual geometric distortion and information loss (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6767067)]
 ### Objective RIQA methods <a name="headers22">
