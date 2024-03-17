@@ -118,7 +118,7 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ### Subjective RIQA methods <a name="headers21">
 #### * A comparative study of image retargeting (2010) [[PDF](https://dl.acm.org/doi/abs/10.1145/1866158.1866186)]  [[RetargetMe Dataset](https://people.csail.mit.edu/mrub/retargetme/)]
 #### * Image retargeting quality assessment: a study of subjective scores and objective metrics (2012) [[PDF](https://ieeexplore.ieee.org/abstract/document/6262447)] [[CUHK Dataset](https://ivp.ee.cuhk.edu.hk/projects/demo/retargeting/index.html)]
-#### * Objective quality assessment for image retargeting based on perceptual geometric distortion and information loss (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6767067)]
+#### * Objective quality assessment for image retargeting based on perceptual geometric distortion and information loss (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6767067)] [[NRID Dataset](https://www.ee.nthu.edu.tw/cwlin/Retargeting_Quality/NRID.html)]
 ### Objective RIQA methods <a name="headers22">
 #### * Objective quality assessment for image retargeting based on structural similarity (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6717034)]
 #### * Objective quality assessment for image retargeting based on perceptual geometric distortion and information loss (2014) [[PDF](https://ieeexplore.ieee.org/abstract/document/6767067)]
