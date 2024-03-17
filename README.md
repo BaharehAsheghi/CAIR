@@ -66,6 +66,12 @@ A Comprehensive Review on Content-Aware Image Retargeting: From Classical to Sta
 ##### * Stretchability-aware block scaling for image retargeting (2013) [[PDF](https://www.sciencedirect.com/science/article/pii/S1047320313000436)]
 #### Warping-based methods <a name="headers122">
 ##### Region-based methods <a name="headers1221">
+##### * Automatic image retargeting with fisheye-view warping (2005) [[PDF](https://dl.acm.org/doi/abs/10.1145/1095034.1095061)]
+##### * Non-homogeneous content-driven video-retargeting (2007) [[PDF](https://ieeexplore.ieee.org/abstract/document/4409010)]
+##### * Constrained sampling for image retargeting (2008) [[PDF](https://ieeexplore.ieee.org/abstract/document/4607705)]
+##### * Fast structure-preserving image retargeting (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/4959767)]
+##### * Adaptive image and video retargeting technique based on Fourier analysis (2009) [[PDF](https://ieeexplore.ieee.org/abstract/document/5206666)]
+##### * Image retargeting with multifocus fisheye transformation (2013) [[PDF](https://link.springer.com/article/10.1007/s00371-012-0744-6)]
 ##### Pixel-based methods <a name="headers1222">
 ##### Mesh-based methods <a name="headers1223">
 ###### Vertex-based methods <a name="headers12231">
